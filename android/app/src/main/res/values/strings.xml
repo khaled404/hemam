@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">همم</string>
+    <string name="default_notification_channel_id">hemamchannel</string>
+</resources>

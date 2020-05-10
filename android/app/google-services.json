@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "568734126091",
+    "firebase_url": "https://smartmarket-197823.firebaseio.com",
+    "project_id": "smartmarket-197823",
+    "storage_bucket": "smartmarket-197823.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:568734126091:android:edd5fc56901f713f56370e",
+        "android_client_info": {
+          "package_name": "com.tasawk.hemam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "568734126091-0722ipfqpo67pb0osj8ki8lmst6gitj2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLjgqp_wu9_rcEhWl-2_jqC241f47ZP5s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "568734126091-0722ipfqpo67pb0osj8ki8lmst6gitj2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
